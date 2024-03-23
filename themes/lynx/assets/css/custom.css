@@ -1,0 +1,12 @@
+.link-microscope {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+      90deg,
+      rgba(0, 246, 189, 100) 0%,
+      rgba(96, 62, 240, 100) 100%
+    );
+  }
+
+.link-normal {
+    background: #603ef0;
+  }
