@@ -1,6 +1,6 @@
 theme = "lynx"
 title = "SeesDisease"
-
+baseURL = "https://seesdisease-tree.info"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
