@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "term"]
     { microscope = { href = "http://disease.local:5001", text = "Mikroskop Demonstration (Gastnetzwerk)", icon="noun-microscope-490709" } },
     {normal = { href = "https://seesdisease-demo.streamlit.app/", text = "Analyse-Tools", icon = "image-fill"} },
     { normal = { href = "https://seesdisease.com", text = "SeesDisease Dokumentation", icon = "file-earmark-text-fill" } },
-    { normal = { href = "mailto:lorenzrutkevich@gmail.com", text = "Kontakt: Lorenz Rutkevich", icon = "envelope-at-fill" } },
+    { normal = { href = "mailto:lorenz.rutkevich@seesdisease.com", text = "Kontakt: Lorenz Rutkevich", icon = "envelope-at-fill" } },
   ]
 
 [markup.highlight]
