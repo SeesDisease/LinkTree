@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
     {normal = { href = "https://seesdisease-demo.streamlit.app/", text = "Analyse-Tools", icon = "image-fill"} },
     { normal = { href = "https://seesdisease.com", text = "SeesDisease Dokumentation", icon = "file-earmark-text-fill" } },
     { normal = { href = "mailto:lorenz.rutkevich@seesdisease.com", text = "Kontakt: Lorenz Rutkevich", icon = "envelope-at-fill" } },
-    { normal = { href = "https://www.linkedin.com/in/lorenz-rutkevich/", text = "LinkedIn", icon = "linkedin" }},
+    { normal = { href = "https://www.linkedin.com/in/lorenz-rutkevich/", text = "LinkedIn", icon = "linkedin" } },
   ]
 
 [markup.highlight]
